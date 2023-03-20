@@ -1,5 +1,5 @@
 # CMC-ML-COURSE-22-23
-The course was delivered in 2022/2023 at CMC MSU.  
+The course was delivered in 2022/2023 at CMC MSU. https://github.com/MSU-ML-COURSE/ML-COURSE-22-23
 This repository contains completed hometask in the following sections:  
 &emsp;&emsp;numpy, pandas, matplotlib  
 &emsp;&emsp;linear model  
